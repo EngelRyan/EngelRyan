@@ -2,9 +2,7 @@
 
 ###
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EngelRyan" alt="EngelRyan's GitHub stats">
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EngelRyan&show_icons=true&show_icons=true&theme=tokyonight&hide=stars)
 
 ###
 
