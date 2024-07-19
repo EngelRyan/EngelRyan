@@ -2,7 +2,7 @@
 
 ###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EngelRyan&show_icons=true&show_icons=true&theme=tokyonight&hide=stars)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EngelRyan&showicons=true&theme=tokyonight&hide=stars)
 
 ###
 
