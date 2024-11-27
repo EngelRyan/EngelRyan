@@ -8,11 +8,10 @@
       <img src="https://github-readme-stats.vercel.app/api?username=EngelRyan&theme=react&show_icons=true&hide_border=true&count_private=true">
     </td>
     <td>
-      <img src = "https://github-readme-streak-stats.herokuapp.com/?user=EngelRyan&theme=react&hide_border=true">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=EngelRyan&theme=react&hide_border=true&exclude_days=Sun%2CSat">
     </td>
   </tr>
 </table>
-
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngelRyan&theme=react&show_icons=true&hide_border=true&layout=compact">
